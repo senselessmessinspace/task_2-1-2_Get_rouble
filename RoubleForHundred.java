@@ -13,6 +13,5 @@ public class RoubleForHundred {
 
         System.out.printf("Account money %d\n", accountAdd);
         System.out.printf("Bonus %d\n", bonus);
-        
     }
 }
